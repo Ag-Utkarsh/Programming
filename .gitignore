@@ -1,2 +1,6 @@
+*.class
 *.exe
-.vscode
+*.bin
+*.json
+.cph/
+.vscode/
