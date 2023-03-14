@@ -5,3 +5,10 @@
 .cph/
 .vscode/
 *.txt *.md *.html
+*.*
+!*.cpp
+*
+!/**/
+!*.*
+*.exe
+*.prob
