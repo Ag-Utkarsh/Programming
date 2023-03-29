@@ -28,7 +28,7 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp.errorSquiggles": "Disabled",
+  "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "ostream": "cpp",
     "cmath": "cpp",
@@ -38,5 +38,6 @@
     "iostream": "cpp",
     "iosfwd": "cpp",
     "algorithm": "cpp"
-  }
+  },
+  "editor.formatOnSave": true
 }

@@ -1,6 +1,7 @@
 /*Write a program to print all Armstrong numbers between 100 and 500.
-  Explanation: A three digit number is called the Armstrong number if the sum of the cube of its digit is equal to
-the number itself.*/
+  Explanation: A three digit number is called the Armstrong number if 
+  the sum of the cube of its digit is equal to the number itself.*/
+// Sample Output: Armstrong numbers between 100 and 500 are: 153 370 371 407
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -21,3 +22,12 @@ int main() {
     }
     return 0;
 }
+
+// PROGRAM DOCUMENTATION
+// Program Description: This program prints all Armstrong numbers between 100 and 500.
+//  FOR LOOP: The for loop is used to iterate through the numbers between 100 and 500.
+//  WHILE LOOP: The while loop is used to calculate the sum of the cube of the digits of the number.
+// pow() FUNCTION: The pow() function is used to calculate the cube of the digit.
+/* IF STATEMENT: The if statement is used to check if the sum of the cube of the 
+digits of the number is equal to the number itself.*/
+// Sample Output: Armstrong numbers between 100 and 500 are: 153 370 371 407

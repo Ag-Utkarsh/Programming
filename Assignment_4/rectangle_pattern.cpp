@@ -21,3 +21,8 @@ int main(){
     }
     return 0;
 }
+// PROGRAM DOCUMENTATION
+// FOR LOOP: The for loop is used to print the stars as per the number of rows and columns.
+
+
+       

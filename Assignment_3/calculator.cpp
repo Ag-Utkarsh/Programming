@@ -28,3 +28,8 @@ int main(){
     }
     return 0;
 }
+// PROGRAM DOCUMENTATION
+// This program takes two numbers as input from the user and performs addition, 
+// subtraction, multiplication, and division on them.
+// The program uses the switch statement to perform the operations.
+// The program outputs the sum, difference, product, and division of the two numbers.

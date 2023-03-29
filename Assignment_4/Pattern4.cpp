@@ -42,4 +42,12 @@ int main() {
     }
     return 0;
 }
-
+// PROGRAM DOCUMENTATION
+// for loop is used to iterate the rows
+// nested for loop(1) is used to print spaces as per the pattern
+// nested for loop(2) is used to print the prime numbers
+// while loop is used to check whether the number is prime or not
+//isPrime() function is used to check whether the number is prime 
+   //or not and return true and false accordingly
+// isPrime() function is called in the while loop
+  

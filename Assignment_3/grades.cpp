@@ -36,3 +36,7 @@ int main(){
       cout<<"Your grade is F"<<endl;
     return 0;           
 }
+// PROGRAM DOCUMENTATION
+// This program takes marks of a student as input from the user and prints the grade of the student.
+// The program uses the if-else statement to check the marks of the student and print the grade of the student.
+// The program outputs the grade of the student.
