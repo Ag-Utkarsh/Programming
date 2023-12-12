@@ -37,7 +37,8 @@
     "utility": "cpp",
     "iostream": "cpp",
     "iosfwd": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "ADRIX.C": "cpp"
   },
   "editor.formatOnSave": true
 }
