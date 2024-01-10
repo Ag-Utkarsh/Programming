@@ -1,1 +1,3 @@
-Greetings, my name is Utkarsh Agarwal. Welcome to my repository, everyone. These are all of my assignments for the online C++ training. I want you to help me make my programs cleaner and more optimized.
+# Utkarsh's Python DSA Repository
+
+Welcome to my repository! I have now shifted to Python and am solving Data Structures and Algorithms (DSA) questions. This repository contains all of my Python assignments for DSA training. Feel free to explore and provide any feedback to help me improve my programs.
